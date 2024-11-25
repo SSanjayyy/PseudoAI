@@ -78,6 +78,7 @@ export default function ProblemPage() {
                      5. If asked for the solution, remind the user that you can only provide hints
                      6. Don't provide unnecessary or malicious detail/code
                      
+                     
                      Problem Context:
                      ${problem?.description}
                      Difficulty: ${problem?.difficulty}
